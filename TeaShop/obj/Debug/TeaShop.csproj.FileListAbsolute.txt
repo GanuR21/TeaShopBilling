@@ -1,0 +1,9 @@
+C:\Users\Administrator\documents\visual studio 2012\Projects\PetrolBunk\TeaShop\bin\Debug\TeaShop.exe.config
+C:\Users\Administrator\documents\visual studio 2012\Projects\PetrolBunk\TeaShop\bin\Debug\TeaShop.exe
+C:\Users\Administrator\documents\visual studio 2012\Projects\PetrolBunk\TeaShop\bin\Debug\TeaShop.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\PetrolBunk\TeaShop\obj\Debug\TeaShop.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2012\Projects\PetrolBunk\TeaShop\obj\Debug\TeaShop.Form1.resources
+C:\Users\Administrator\documents\visual studio 2012\Projects\PetrolBunk\TeaShop\obj\Debug\TeaShop.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2012\Projects\PetrolBunk\TeaShop\obj\Debug\TeaShop.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2012\Projects\PetrolBunk\TeaShop\obj\Debug\TeaShop.exe
+C:\Users\Administrator\documents\visual studio 2012\Projects\PetrolBunk\TeaShop\obj\Debug\TeaShop.pdb
